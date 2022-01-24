@@ -1,8 +1,3 @@
-# MY-MEAN-API-Sample
-My Backend-coding sample Mongdb, Mocha, Express, Node etc
+# express-mongoDB-jest-morgan
 
-
-This has the sample codes for User Models and auth guards to authorize and authenticate based on the role type of user.
-
-It also contains test suite using Mocha,Expect.js etc...
-It is to demonstrate "my" coding patterns and practices
+Just a sample ecomm project showcasing my project structure and file structure . Obviously this is just to play around, and not for production. Production will need tech discussion and non funtional requirements to be laid out with the number of concurrent expected users. So It Depends what to change and what not to based on need by need.
